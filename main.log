@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.27)  18 OCT 2016 20:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.1.27)  8 MAR 2017 01:01
 entering extended mode
 **./main.tex
 (main.tex
@@ -1099,21 +1099,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
-
-Overfull \hbox (7.5472pt too wide) in alignment at lines 10--10
-[][][] 
- []
-
-
-Underfull \hbox (badness 10000) in alignment at lines 10--10
-[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 10--11
-
- []
-
 ) (content/IT.tex
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--6
 [][][][][][][] 
@@ -1140,11 +1125,6 @@ Overfull \hbox (7.5472pt too wide) in alignment at lines 9--9
  []
 
 
-Overfull \hbox (7.5472pt too wide) in alignment at lines 11--11
-[][][] 
- []
-
-
 Overfull \hbox (6.0pt too wide) in paragraph at lines 13--14
 [][][][][][][] 
  []
@@ -1166,28 +1146,7 @@ Overfull \hbox (7.5472pt too wide) in alignment at lines 17--17
 [][][] 
  []
 
-)
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 384.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 384.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 384.
-LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 384.
-
-
-Package Fancyhdr Warning: \headheight is too small (-5.0pt): 
- Make it at least 11.0pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-
-Overfull \vbox (5.0pt too high) has occurred while \output is active []
-
- [1{C:/Users/MikaelVM/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
-
- <./myfoto.jpg>] (content/languages.tex
+) (content/languages.tex
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--2
 [][][][][][][] 
  []
@@ -1217,7 +1176,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--3
 
  []
 
-) (content/other.tex
+)
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 388.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 388.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 388.
+LaTeX Font Info:    Font shape `T1/Raleway-TLF/b/n' will be
+(Font)              scaled to size 9.0pt on input line 388.
+
+
+Package Fancyhdr Warning: \headheight is too small (-5.0pt): 
+ Make it at least 11.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+
+Overfull \vbox (5.0pt too high) has occurred while \output is active []
+
+ [1{C:/Users/MikaelVM/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+ <./myfoto.jpg>] (content/other.tex
 Overfull \hbox (6.0pt too wide) in paragraph at lines 1--2
 [][][][][][][] 
  []
@@ -1288,7 +1268,7 @@ Overfull \vbox (5.0pt too high) has occurred while \output is active []
 Here is how much of TeX's memory you used:
  15695 strings out of 493634
  335427 string characters out of 3143735
- 405722 words of memory out of 3000000
+ 407721 words of memory out of 3000000
  18717 multiletter control sequences out of 15000+200000
  100822 words of font info for 35 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
@@ -1297,7 +1277,7 @@ Here is how much of TeX's memory you used:
 VM/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/raleway/a_bzmckq.enc}<C:/Users/MikaelVM/AppData/Local/Programs/MiKT
 eX 2.9/fonts/type1/impallari/raleway/Raleway-Bold.pfb><C:/Users/MikaelVM/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/i
 mpallari/raleway/Raleway-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on main.pdf (2 pages, 130974 bytes).
+Output written on main.pdf (2 pages, 130837 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
